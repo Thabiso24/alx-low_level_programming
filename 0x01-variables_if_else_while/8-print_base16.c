@@ -14,7 +14,7 @@ int main(void)
 	q = 0;
 	while
 		(q < 10) {
-			putchar(q);
+			putchar(q + '0');
 			q++;
 		}
 	while
