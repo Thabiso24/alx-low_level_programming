@@ -4,7 +4,7 @@
 
 /**
  * main - point of entry code in c
- * Return 0 (Success)
+ * Return: 0 (Success)
  */
 
 int main(void)
